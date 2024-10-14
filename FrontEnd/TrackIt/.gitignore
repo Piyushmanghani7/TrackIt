@@ -1,0 +1,14 @@
+//
+//  .gitignore.swift
+//  TrackIt
+//
+//  Created by Piyush Manghani on 10/14/24.
+//
+
+# Xcode specific
+.DS_Store
+build/
+*.xcworkspace
+*.xcuserstate
+*.xcodeproj
+DerivedData/
